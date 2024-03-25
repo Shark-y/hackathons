@@ -14,3 +14,5 @@ https://qiskit-community.github.io/qiskit-metal/_images/logo1.png
 * Anaconda https://docs.anaconda.com/free/anaconda/install/windows/
 * Ansys desktop for students (Requires login) https://it.engr.ncsu.edu/software/catalog/ansys-student/
 
+## Website
+https://quackhacks-spring24.devpost.com/
