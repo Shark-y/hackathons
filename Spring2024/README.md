@@ -16,3 +16,14 @@ https://qiskit-community.github.io/qiskit-metal/_images/logo1.png
 
 ## Website
 https://quackhacks-spring24.devpost.com/
+
+## Qiskit Metal Installtion
+* Create a python 3.8-3.10 environment with Anaconda; open a termninal to your environment.
+* Install Qiskit Metal
+```
+pip install geopandas
+pip install qiskit-metal
+pip install jupyter lab
+```
+
+Note: You need a fully licensed Ansys Desktop to run analysis.
