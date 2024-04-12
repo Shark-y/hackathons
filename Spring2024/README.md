@@ -17,8 +17,8 @@ https://qiskit-community.github.io/qiskit-metal/_images/logo1.png
 ## Website
 https://quackhacks-spring24.devpost.com/
 
-## Qiskit Metal Installtion
-* Create a python 3.8-3.10 environment with Anaconda; open a termninal to your environment.
+## Qiskit Metal Installation
+* Create a python 3.10.x environment with Anaconda; open a termninal to your environment.
 * Install Qiskit Metal
 ```
 pip install geopandas
@@ -27,3 +27,13 @@ pip install jupyter lab
 ```
 
 Note: You need a fully licensed Ansys Desktop to run analysis.
+
+## Checkout the code
+```
+cd c:\temp
+git clone https://github.com/Shark-y/hackathons.git
+cd c:\temp\hackathons\Spring24
+jupyter lab
+```
+
+Your default browser should open http://localhost:8888/lab
